@@ -1,0 +1,168 @@
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.config
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.pdb
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Properties.Resources.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CopyComplete
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.pdb
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Distribuir.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Editar.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Tarefas.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.ListaTarefas.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarTarefas.resources
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.config
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.pdb
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.AssemblyReference.cache
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Distribuir.resources
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Editar.resources
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarTarefas.resources
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Tarefas.resources
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.ListaTarefas.resources
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Properties.Resources.resources
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.GenerateResource.cache
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CoreCompileInputs.cache
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe
+C:\Users\User.SA4-PC10\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.pdb
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.config
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.pdb
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Distribuir.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Editar.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarTarefas.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Tarefas.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.ListaTarefas.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Properties.Resources.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.pdb
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Responsavel.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Responsaveis.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AddResponsavel.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AdicionarTarefas.resources
+C:\Users\User\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Pontuacoes.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.config
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.pdb
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.AssemblyReference.cache
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AdicionarTarefas.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Pontuacoes.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Responsaveis.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Distribuir.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Editar.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarTarefas.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Tarefas.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.ListaTarefas.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Properties.Resources.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AddResponsavel.resources
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.GenerateResource.cache
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CoreCompileInputs.cache
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CopyComplete
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe
+C:\Users\estagio2\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.pdb
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.config
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.pdb
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AdicionarTarefas.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Pontuacoes.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Responsaveis.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Distribuir.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Editar.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarTarefas.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Tarefas.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.ListaTarefas.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Properties.Resources.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AddResponsavel.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.pdb
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarResponsaveis.resources
+C:\Users\User\Desktop\PAPTarefas_2\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Principal.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.pdb
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.config
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.manifest
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.application
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.pdb
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AdicionarTarefas.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarResponsaveis.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Pontuacoes.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Principal.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Responsaveis.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Distribuir.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Editar.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarTarefas.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Tarefas.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.ListaTarefas.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AddResponsavel.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.TrustInfo.xml
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe.manifest
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.application
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.config
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.manifest
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.application
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.pdb
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AdicionarTarefas.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarResponsaveis.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Pontuacoes.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Principal.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Responsaveis.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Distribuir.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Editar.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarTarefas.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Tarefas.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.ListaTarefas.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Properties.Resources.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AddResponsavel.resources
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.TrustInfo.xml
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe.manifest
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.application
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe
+C:\Users\danie\OneDrive\Ambiente de Trabalho\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.pdb
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.pdb
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.config
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe.manifest
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.application
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.exe
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\bin\Debug\PAPTarefas.pdb
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AdicionarTarefas.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Pontuacoes.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Principal.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Responsaveis.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Distribuir.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Editar.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.EditarTarefas.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Tarefas.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.ListaTarefas.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.Properties.Resources.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.AddResponsavel.resources
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.TrustInfo.xml
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.exe.manifest
+C:\Users\Utilizador\Desktop\PAPTarefas\PAPTarefas\PAPTarefas\obj\Debug\PAPTarefas.application
